@@ -1,16 +1,17 @@
 ## System Requirements: 
-Windows with Python 3.9.2 installed.
-Coding Language and version:
+<p>Windows with Python 3.9.2 installed.
+<p>Coding Language and version:
  Python 3.9.2
-List of files in the application: 
-1.porter_stemmer.py	
-2.pre_process.py
-3.inverted_index.py
-4.tfidf.py
-5.cosine_sim.py
-6.ir_system.py
-7.input.txt          		(sample input file for checking)
-8.stopword.txt		(small file of stop words created manually )
+<p>List of files in the application: 
+<li>porter_stemmer.py	
+<li>pre_process.py
+<li>inverted_index.py
+<li>tfidf.py
+<li>cosine_sim.py
+<li>ir_system.py
+<li>input.txt          		(sample input file for checking)
+<li>stopword.txt		(small file of stop words created manually )
+ 
 
 ## Instructions to Run Program
 ### 1. PREPROCESSING:
